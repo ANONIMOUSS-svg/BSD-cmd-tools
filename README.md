@@ -18,3 +18,5 @@ If you use MacOS X you can just open the folder then click on the software you w
 This "software suite" may not work with Linux.
 
 Enjoy this minimals tools…
+
+PS: Can you fork an Apple Sillicon version ?
